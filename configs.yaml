@@ -1,0 +1,17 @@
+# 原始数据路径
+qq_file_path: './1_source/QQmail.csv'
+wechat_file_path: './1_source/wechat.xlsx'
+
+# 保存路径
+head_img_path: './2_head_img'
+output_path: './3_output'
+log_path: './4_log'
+
+# 过程控制
+qq_download_mode: False
+wechat_download_mode: False
+stitch_mode: True
+
+# 图像设置
+image_size: 2560
+edge_percentage: 0.1

@@ -1,0 +1,12 @@
+2024-02-10 19:00:25,247 - INFO - Start Time: 2024-02-10 18-53-21
+2024-02-10 19:00:25,247 - INFO - qq_file_path: ./1_source/QQmail.csv
+2024-02-10 19:00:25,247 - INFO - wechat_file_path: ./1_source/wechat.xlsx
+2024-02-10 19:00:25,247 - INFO - head_img_path: ./2_head_img
+2024-02-10 19:00:25,247 - INFO - output_path: ./3_output
+2024-02-10 19:00:25,248 - INFO - log_path: ./4_log
+2024-02-10 19:00:25,248 - INFO - qq_download_mode: True
+2024-02-10 19:00:25,248 - INFO - wechat_download_mode: True
+2024-02-10 19:00:25,248 - INFO - stitch_mode: True
+2024-02-10 19:00:25,248 - INFO - image_size: 2560
+2024-02-10 19:00:25,248 - INFO - edge_percentage: 0.1
+2024-02-10 19:00:25,248 - INFO - End Time:  2024-02-10 19-00-25

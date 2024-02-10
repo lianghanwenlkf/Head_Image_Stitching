@@ -1,0 +1,12 @@
+Start Time: 2024-02-10 19-08-37
+qq_file_path: ./1_source/QQmail.csv
+wechat_file_path: ./1_source/wechat.xlsx
+head_img_path: ./2_head_img
+output_path: ./3_output
+log_path: ./4_log
+qq_download_mode: True
+wechat_download_mode: True
+stitch_mode: True
+image_size: 2560
+edge_percentage: 0.1
+End Time: 2024-02-10 19-15-07
