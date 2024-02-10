@@ -21,3 +21,4 @@
 #### （2）edge_percentage # 小图边缘计算范围百分比
 ## 3 运行
 ### head_image_stitching.py
+### ![效果](./3_output/output.png)
